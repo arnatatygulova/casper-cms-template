@@ -38,7 +38,7 @@ html {
    -ms-text-size-adjust: 100%;
    -webkit-text-size-adjust: 100%;
 }
-body { margin: 0; background-color: blue; }
+body { margin: 0; }
 a { background: transparent; }
 a:focus { outline: thin dotted; }
 a:active, a:hover { outline: 0; }
@@ -873,7 +873,7 @@ body.nav-opened .menu-button .word {
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
+    font-size: 55rem;
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
